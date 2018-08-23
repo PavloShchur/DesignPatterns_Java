@@ -1,4 +1,4 @@
-package com.pavlo.strategy;
+package com.pavlo.strategy.firstExample;
 
 public class DBAuth implements AuthStrategy{
     

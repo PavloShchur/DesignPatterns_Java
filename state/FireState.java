@@ -1,6 +1,6 @@
 package com.pavlo.state;
 
-public class FireState implements TransformerState{
+public class FireState implements TransformerState {
 
     @Override
     public void action() {

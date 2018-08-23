@@ -1,4 +1,4 @@
-package com.pavlo.strategy;
+package com.pavlo.strategy.firstExample;
 
 import java.io.File;
 
@@ -10,7 +10,6 @@ public class FileAuth implements AuthStrategy{
         this.file = file;
     }
     
-
     @Override
     public boolean checkLogin(String name, String password) {
         System.out.println("Checking with file...");
