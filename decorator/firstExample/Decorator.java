@@ -1,4 +1,4 @@
-package com.pavlo.decorator;
+package com.pavlo.decorator.firstExample;
 
 public abstract class Decorator implements Component {
     

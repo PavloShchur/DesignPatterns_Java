@@ -1,4 +1,4 @@
-package com.pavlo.decorator;
+package com.pavlo.decorator.firstExample;
 
 public class ColorDecorator extends Decorator {
 
