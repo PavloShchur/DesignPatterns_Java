@@ -1,4 +1,4 @@
-package com.pavlo.factoryMethod;
+package com.pavlo.factoryMethod.firstExample;
 
 public enum RoadType {
 
