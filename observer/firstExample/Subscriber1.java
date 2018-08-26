@@ -1,6 +1,6 @@
-package com.pavlo.observer;
+package com.pavlo.observer.firstExample;
 
-public class Subscriber2 implements PublisherActionListener{
+public class Subscriber1 implements PublisherActionListener{
 
     @Override
     public void doAction(String message) {

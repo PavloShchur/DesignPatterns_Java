@@ -1,4 +1,4 @@
-package com.pavlo.observer;
+package com.pavlo.observer.firstExample;
 
 import java.util.ArrayList;
 
