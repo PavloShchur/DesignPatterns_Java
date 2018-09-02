@@ -1,4 +1,4 @@
-package com.pavlo.adapter;
+package com.pavlo.adapter.firstExample;
 
 public class Printer {
 

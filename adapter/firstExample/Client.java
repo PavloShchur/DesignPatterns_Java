@@ -1,4 +1,4 @@
-package com.pavlo.adapter;
+package com.pavlo.adapter.firstExample;
 
 import java.util.ArrayList;
 import java.util.List;
